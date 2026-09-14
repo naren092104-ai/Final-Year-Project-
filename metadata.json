@@ -1,0 +1,6 @@
+{
+  "name": "SmartTwin AI - Digital Twin Clinical Intelligence",
+  "description": "Digital Twin-Driven Agentic AI Framework for Intelligent Patient Monitoring and Clinical Decision Support in Smart Hospitals",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
